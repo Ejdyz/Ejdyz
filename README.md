@@ -1,5 +1,5 @@
 
-# Hello, 
+# Hello
 I'am high school student learning programing.
 
 ## My Stats
