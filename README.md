@@ -34,10 +34,10 @@ I am a university student who loves frontend web development and building intera
   <a href="https://github.com/Ejdyz/weather-station">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ejdyz&repo=weather-station&hide_border=true&theme=react" alt="Weather Station Project Card" />
   </a>
-  <a href="https://github.com/Ejdyz/weather-station">
+  <a href="https://github.com/Ejdyz/Taskify">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ejdyz&repo=taskify&hide_border=true&theme=react" alt="Weather Station Project Card" />
   </a>
-  <a href="https://github.com/Ejdyz/weather-station">
+  <a href="https://github.com/Ejdyz/panema.cz">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ejdyz&repo=panema.cz&hide_border=true&theme=react" alt="Weather Station Project Card" />
   </a>
 
